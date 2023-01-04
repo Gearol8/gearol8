@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3ohzdSfnSZJ23KcIWA/giphy-downsized-large.gif" width="100"/>
 </div>
 
-### Hi there 👋
+### Hi. It's me GEAROL8
 
 <!--
 **Gearol8/gearol8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
