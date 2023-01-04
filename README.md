@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohzdSfnSZJ23KcIWA/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
+
+### Hi.It's me GEAROL8 👋
+<div id="badges">
+   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **Gearol8/gearol8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
